@@ -1,0 +1,19 @@
+body{
+   background-color: beige; 
+   background-image: url(bgimage.png);
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+}
+
+div {
+   border: solid 5px blue;
+   height: 800px;
+   width: 900px;
+   margin: auto;
+   background-image: url(bgimage.png);
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   /* background-position: bottom; */
+   background-size: 30% 30%;
+   
+}
