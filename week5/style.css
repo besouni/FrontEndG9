@@ -1,0 +1,32 @@
+form, div{
+   width: 700px;
+   min-height: 100px;
+   border: solid 2px green;
+   padding: 20px;
+   margin: 20px auto;
+}
+
+.but1{
+   padding: 10px;
+   cursor:pointer;
+   background-color: aquamarine;
+}
+
+.but1:hover{
+   background-color: bisque;
+}
+
+.inp1 {
+   padding: 8px;
+   border: none;
+   border-bottom: solid 3px green;
+   outline: none;
+}
+
+.inp1:focus{
+   border: none;
+   outline: none;
+   background-color: beige;
+   border-bottom: solid 3px green;
+   font-weight: bold;
+}
