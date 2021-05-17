@@ -7,6 +7,9 @@
 // console.log(o['name'])
 // console.log(o.name)
 
+import from 'app1.JS';
+
+
 function f1(){
    document.write("<h3>hello JS</h3>");
 }
